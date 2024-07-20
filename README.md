@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @charles-meggett
+- 👀 I’m interested in geospatial data visualization
+- 🌱 I’m currently learning front-end frameworks
+- 💞️ I’m looking to collaborate on all things geospatial and/or visualization
+- 😄 Pronouns: he/him
